@@ -1,1 +1,3 @@
-Hello World
+Hello World,
+
+I find the instructions on this project very hard to understand. It's almost like they were written in reverse.
